@@ -31,3 +31,12 @@ White Paper v2.0 is the current publication.
 These documents describe a deployed configuration snapshot. They are not an
 open-source release of the CourtRank implementation and do not grant a software
 license.
+
+## Provenance
+
+This public archive was established on July 23, 2026 by extracting and
+organizing publication artifacts and decision history from CourtRank's private
+production project. Its short public commit history reflects that migration,
+not the age of the underlying work. Historical paper versions are retained here
+to make the algorithm's development traceable without publishing the
+proprietary implementation or league data.
