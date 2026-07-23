@@ -13,7 +13,7 @@ commit fingerprint to which it corresponds.
 
 ## History
 
-### v2.0 — in progress (July 2026)
+### v2.0 — July 23, 2026
 
 Major revision based on the production decisions recorded in ADRs 0001–0005:
 
@@ -28,8 +28,8 @@ mis-seed reaches about court 4.6 by Week 8 under the deployed configuration,
 rather than automatically reaching the top courts. Obvious administrative
 mis-seeds are now expected to be corrected by an organizer.
 
-The v2.0 paper must also qualify zero-sum language, describe batch computation,
-replace the simulation matrix, update the parameter appendix, and regenerate
+The v2.0 paper also qualifies zero-sum language, describes batch computation,
+replaces the simulation matrix, updates the parameter appendix, and regenerates
 the multi-game worked example.
 
 ### v1.1 — July 2026

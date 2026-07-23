@@ -1,6 +1,6 @@
 # CourtRank — current production specification
 
-_Last verified: 2026-07-23 · target configuration for White Paper v2.0_
+_Last verified: 2026-07-23 · White Paper v2.0 production configuration_
 
 This document describes the deployed CourtRank behavior. The implementation
 remains in a private application repository; this public repository contains the
@@ -13,7 +13,7 @@ papers, decision history, revision notes, and reproducible result snapshots.
 | Documentation snapshot | 2026-07-23 |
 | Production repository commit | `5a00c2e` |
 | Final 0.1 configuration introduced | `f536c62` |
-| White paper | v2.0 in progress |
+| White paper | v2.0, published 2026-07-23 |
 
 If an older paper or experiment report disagrees with this document, this
 document and the later decision record take precedence.
@@ -61,6 +61,8 @@ over aggressive automatic repair of extreme administrative mis-seeds.
   used for each decision.
 - [White-paper version history](whitepaper-versions.md) records which public
   claims belonged to each version.
+- [White Paper v2.0](../papers/courtrank-whitepaper-v2.0.pdf) is the current
+  public narrative.
 - [White Paper v1.0](../papers/courtrank-whitepaper-v1.0.pdf) and
   [v1.1](../papers/courtrank-whitepaper-v1.1.pdf) are retained as historical
   publications and are not current specifications.

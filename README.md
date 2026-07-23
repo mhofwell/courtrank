@@ -21,9 +21,10 @@ application remain private.
 - [White-paper version history](docs/whitepaper-versions.md)
 - [White Paper v1.0](papers/courtrank-whitepaper-v1.0.pdf)
 - [White Paper v1.1](papers/courtrank-whitepaper-v1.1.pdf)
+- [White Paper v2.0 — current](papers/courtrank-whitepaper-v2.0.pdf)
 - [v2.0 revision briefing](docs/revisions/2026-07-whitepaper-v2-briefing.md)
 
-White Paper v2.0 is in progress.
+White Paper v2.0 is the current publication.
 
 ## Scope
 
