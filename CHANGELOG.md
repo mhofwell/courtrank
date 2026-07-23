@@ -1,4 +1,4 @@
-# White paper — version history and policy
+# Changelog
 
 ## Versioning policy
 

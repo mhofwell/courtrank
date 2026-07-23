@@ -59,7 +59,7 @@ over aggressive automatic repair of extreme administrative mis-seeds.
   chosen.
 - [Experiment reports](experiments/) preserve the configuration and results
   used for each decision.
-- [White-paper version history](whitepaper-versions.md) records which public
+- [Changelog and versioning policy](../CHANGELOG.md) records which public
   claims belonged to each version.
 - [White Paper v2.0](../papers/courtrank-whitepaper-v2.0.pdf) is the current
   public narrative.

@@ -18,7 +18,7 @@ application remain private.
 
 - [Current production specification](docs/CURRENT.md)
 - [Decision history](docs/decisions/README.md)
-- [White-paper version history](docs/whitepaper-versions.md)
+- [Changelog and versioning policy](CHANGELOG.md)
 - [White Paper v1.0](papers/courtrank-whitepaper-v1.0.pdf)
 - [White Paper v1.1](papers/courtrank-whitepaper-v1.1.pdf)
 - [White Paper v2.0 — current](papers/courtrank-whitepaper-v2.0.pdf)

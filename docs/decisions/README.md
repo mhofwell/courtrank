@@ -12,13 +12,6 @@ This folder is the append-only history of *why* CourtRank works the way it does.
 - "How it works today" lives in `docs/CURRENT.md` and the white paper — not here.
   These records are history and cannot go stale.
 
-## Why this exists
-
-`docs/how-the-ladder-works.md` drifted out of date because it mixed *current state*
-with *rationale*. When the production configuration changed (see ADRs 0001–0005),
-the rationale survived but the stated parameters silently became wrong. Splitting
-the two document types prevents a repeat.
-
 ## Index
 
 | ADR | Decision | Status |
